@@ -482,7 +482,7 @@ menucompleto {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/gallery/1_foto_cerveza.png") top center;
+  background: url("../img/gallery/gin.jpg") top center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -522,7 +522,7 @@ menucompleto {
 }
 
 #hero h2 {
-  color: #eee;
+  color: rgb(22, 6, 6);
   margin-bottom: 10px 0 0 0;
   font-size: 22px;
 }
